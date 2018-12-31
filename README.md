@@ -1,2 +1,4 @@
 # PAT-BASIC
-一个新人学习中，觉得程序员都超级可爱的男孩。
+
+Hello!!!
+I am studying!!!
