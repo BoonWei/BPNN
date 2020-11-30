@@ -1,4 +1,4 @@
-# PAT-BASIC
+# BP神经网络
 
-Hello!!!
-I am studying!!!
+createdata.py实现数据集的创建，提取5个特征值，包括3个颜色特征：r三阶矩，g二阶矩，g三阶矩，2个纹理特征：对比度，asm。
+bp.py实现BP神经网络的人工实现。
